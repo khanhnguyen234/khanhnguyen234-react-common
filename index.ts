@@ -1,1 +1,5 @@
-export { scrollToElement, scrollToId, scrollToOffset } from './src/utils/window'
+export {
+  scrollToElement,
+  scrollToId,
+  scrollToOffset,
+} from "./src/utils/window";
